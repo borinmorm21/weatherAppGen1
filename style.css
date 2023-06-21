@@ -65,6 +65,12 @@ body {
   margin-top: 10px;
 }
 
+a {
+  color: #d4d4d4;
+  text-decoration: none;
+  margin: 20px;
+}
+
 @media (max-width: 600px) {
   .card {
     width: 150px;
